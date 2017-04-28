@@ -1,12 +1,13 @@
 ---
-title: JavaScript - Learn Web Development
+title: JavaScript - learn.jasonnutter.com
 
 language_tabs:
   - javascript
   - html
 
 toc_footers:
-  - <a href='https://github.com/jasonnutter/learn-web-development/pulls'target='_blank'>Contribute on Github</a>
+  - <a href='https://github.com/jasonnutter/learn/edit/master/source/units/javascript/index.html.md' target='_blank'>Edit this page</a>
+  - <a href='https://github.com/jasonnutter/learn/pulls'target='_blank'>Contribute on Github</a>
   - <a href='http://jasonnutter.com' target='_blank'>jasonnutter.com</a>
   - <a href='https://github.com/tripit/slate' target='_blank'>Documentation Powered by Slate</a>
 
